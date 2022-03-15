@@ -34,3 +34,7 @@ solution*
 *.app
 demo
 test
+
+.vscode
+
+.vscode/**
